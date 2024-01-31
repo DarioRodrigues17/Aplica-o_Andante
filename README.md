@@ -85,6 +85,12 @@ APP,21,4% achou pouco provável e 14,3% achou nada provável ou seja consegue se
 relativa a renovação do Passe Andante, consegue se compreender que através das respostas 64,3% gostaria de ter a hipótese de gerar um código QR para a validação do Passe Andante pela APP,7,1% achou pouco provável e 21,4% achou nada provável ou seja consegue se analisar que a maioria estará interessada em fazer a validação do Passe Andante pelo um código QR.
 
 
+# MOCKUPS
+
+Nesta fase fiz alguns mockups para a aplicação, o objetivo é ter uma ideia inicial de como vai ser a aplicação, o seu visual, quantas “páginas” vão ser necessárias. Os mockups ajudam bastante as entidades que estão a realizá-la, isto porque todas as entidades partilham ideias para realizar um mockup, nesse momento são discutidas ideias de design e visual gráfico da aplicação, tentar descobrir qual será a melhor solução para que o utilizador se sinta bem ao usufruir da aplicação.
+
+
+
 
 
 
