@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">214993056716-fd865s8u0vs0rnpdoupmd7ulqs7hre74.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">214993056716</string>
+    <string name="google_api_key" translatable="false">AIzaSyCl8P00SL6I1B0y00J1i6nc6PlW_4IAcko</string>
+    <string name="google_app_id" translatable="false">1:214993056716:android:a2e9ec5d3e84b901876369</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCl8P00SL6I1B0y00J1i6nc6PlW_4IAcko</string>
+    <string name="google_storage_bucket" translatable="false">app-andante.appspot.com</string>
+    <string name="project_id" translatable="false">app-andante</string>
+</resources>

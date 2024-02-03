@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/viajar"
+        android:id="@+id/viajar"
+        android:icon="@drawable/app_logo_b"/>
+    <item android:title="@string/consumos"
+        android:id="@+id/consumos"
+        android:icon="@drawable/consumos_icon"/>
+    <item android:title="@string/pagamentos"
+        android:id="@+id/pagamentos"
+        android:icon="@drawable/pagamentos"/>
+    <item android:title="@string/validacao"
+        android:id="@+id/validacao"
+        android:icon="@drawable/validacao_icon"/>
+</menu>
