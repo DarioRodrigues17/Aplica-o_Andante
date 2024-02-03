@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214993056716",
+    "project_id": "app-andante",
+    "storage_bucket": "app-andante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214993056716:android:a2e9ec5d3e84b901876369",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214993056716-fd865s8u0vs0rnpdoupmd7ulqs7hre74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl8P00SL6I1B0y00J1i6nc6PlW_4IAcko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214993056716-fd865s8u0vs0rnpdoupmd7ulqs7hre74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
