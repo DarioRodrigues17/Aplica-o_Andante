@@ -2,6 +2,12 @@
 
 ![image](https://github.com/DarioRodrigues17/App_Andante/assets/133675148/aa5ec6f3-1a86-4cdb-8055-a40e827a126b)
 
+# Demonstração
+
+
+https://github.com/DarioRodrigues17/App_Andante/assets/133675148/d1900c91-7d5b-478d-9017-633958e6d0b2
+
+
 # Introdução ao projeto
 Neste projeto, consistiu no desenvolvimento de uma aplicação para smartphone sobre o Passe Andante, com o objetivo de criar uma interface intuitiva e de boa performance, com funcionalidades para os utilizadores gerirem o seu Passe Andante e bilhetes diários e conseguir fazer tudo através da App. 
 
